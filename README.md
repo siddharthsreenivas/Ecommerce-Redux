@@ -90,7 +90,7 @@ redux-ecomCart/
 ## 🧾 Credits
 
 - 🛍️ **FakeStoreAPI** - For providing the backend product data  
-  [https://fakestoreapi.com](https://fakestoreapi.com)
+  [https://fakestoreapi.in](https://fakestoreapi.in)
 
 ## 📦 Deployment
 
